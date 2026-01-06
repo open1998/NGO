@@ -1,5 +1,6 @@
 @import 'tailwindcss';
 
+
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';
 @source '../**/*.blade.php';
@@ -10,10 +11,10 @@
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
-.bg-primary {
+/* .bg-primary {
     @apply bg-[#eceee8]
 }
 
 .header {
     @apply bg-[#9fa990]
-}
+} */
